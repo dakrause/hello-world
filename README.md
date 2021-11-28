@@ -1,7 +1,7 @@
 # hello-world
 Simple repository to learn GitHub concepts
 Here is some new material to add to my hello-world repository.
-I am pasting some code as follows:
+I am pasteing some code as follows:
 def hexStr(byteList):
     """
     Convert a list of byte integers (0 - 255) to a text string of 2-digit
